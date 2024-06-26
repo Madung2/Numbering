@@ -1,0 +1,413 @@
+XXX KOSDAQ Venture Private Equity Trust No. X 
+(Financial Investment Association Fund Code:)
+
+
+Chapter 1 General Provisions
+
+Article 1 (Purpose)
+(1) The purpose of this trust agreement is  to establish the collective investment vehicle and to determine the duties and obligations of the beneficiaries in the  establishment of the collective investment vehicle and the operation and management of the collective investment property  as prescribed by the law, as well  as matters related to the rights and obligations of the beneficiary.
+
+Article 2 (Definitions)
+The terms used in this trust agreement are defined as follows: However, with regard to terms not stipulated in each paragraph, it shall be in accordance with the relevant laws (the law, the enforcement ordinance of the law, and the enforcement regulations of the law, hereinafter referred to as the following) and the regulations on the financial investment business.
+    1. "Beneficiary" means a collective investor who holds the beneficial securities of the investment trust.
+    2. "Selling Company" means an investment trader or investment broker who sells the beneficial securities of this investment trust.
+    3. "Business Day" refers to the opening day of the Korea Exchange. 
+    4. "Investment trust" refers to a trust-type collective investment organization in which a trustee who is a collective investment business invests and manages the property entrusted to the trustee in accordance with the instructions of the collective investment business.
+    5. "Mixed Asset Collective Investment Vehicle" means a collective investment vehicle that has no restriction on the proportion of assets subject to investment in the management of collective investment assets.
+    6. "Closed-ended" refers to a collective investment vehicle that cannot be repurchased.
+    7. "Unit" refers to a collective investment vehicle that cannot contribute additional funds.
+    8. "Private investment vehicle" refers to a collective investment organization that issues collective investment securities only in private placements, and the total number of investors is less than 100 in accordance with Article 14 of the Enforcement Decree of the Act.
+    9. "General Private Equity Collective Investment Vehicle" means a private equity collective investment vehicle, excluding the institutional private equity collective investment vehicle pursuant to Article 9, Paragraph 19, Paragraph 2 of the Act.
+    10. "High-difficulty financial investment product" refers to a product that falls under Article 2, Paragraph 7 of the Enforcement Decree of the Act. 
+
+Article 3 (Types and Names of Collective Investment Vehicles , etc.)
+(1) The name of this collective investment vehicle shall be "XX KOSDAQ Venture General Private Equity Trust No. X".
+    ①  This investment trust has the following forms:
+Investment Trusts
+    1. Mixed-asset type
+    2. Closed
+    3. Unit Type
+    4. Private model
+    5. Type
+    6. General Private Equity Vehicles 
+    7. Applicable to high-difficulty financial investment products : Not applicable 
+(3) This investment trust is a type of collective investment vehicle, and the types are as follows.
+    1. Type A Beneficiary Securities: Beneficiary securities with no subscription restrictions and pre-emptive sales fees
+    2. Type C Beneficiary Securities: Beneficiary securities that do not have subscription restrictions and are not subject to pre-emptive sales fees.
+    3. Type C-I Beneficiary Securities: Beneficiary securities for which no pre-emptive sales commission is collected, and there is no limit on the amount of investment to financial institutions as defined in Article 10, Paragraph 2 of the Enforcement Decree of the Act, or professional investors as defined in Article 10, Paragraph 3, Paragraphs 1 to 8, 10 to 14 of the Enforcement Decree of the Act.
+(4) This investment trust is a general private equity collective investment vehicle, and in accordance with Article 249(8) of the Act, it is excluded from the application of general investor protection regulations, such as filing a report to the Financial Services Commission, frequent disclosure of important facts prescribed by law, such as changes in investment management personnel, postponement of buybacks, and amortization of non-performing assets, and daily disclosure of reference prices. 
+
+Article 3(2) (Investors in Investment Trusts)
+This investment trust is a general private equity investment vehicle, and membership qualifications are  limited to investors (referred to as "professional investors") who fall under any of the following: 
+    1. As a professional investor, an investor as defined in Article 271(1) of the Enforcement Decree of the Act
+    2. Individuals, corporations, and other organizations that invest more than 300 million won (including funds and collective investment vehicles in accordance with the laws stipulated in Schedule 2 of the National Finance Act) In this case, the  subscription amount  shall be calculated based on the investment amount paid to the vendor.
+
+Article 3(3) (Solicitation of Investment, etc.)
+(1) The selling company that sells the collective investment securities of a general private equity fund must verify that the investor is a "qualified investor". 
+(2) In the event that the selling company sells this investment trust, Article 1, 7, Paragraphs 1 to 3, and Article 18, Paragraphs 1 and 2 of the Financial Consumer Protection Act (hereinafter referred to as the "Financial Consumer Protection Act") shall not apply. However, this shall not be the case if a qualified investor pursuant to Article 49(2) of the Act and designated by the Enforcement Decree of the Financial Consumer Protection Act, such as general financial consumers, requests it as prescribed by the Enforcement Decree of the Act.
+(3) A vendor pursuant to paragraph (2) shall inform a person prescribed by the Enforcement Decree of the Financial Consumer Protection Act in accordance with the proviso to the same paragraph that it may separately request the application of the provisions of Article 17(1) to (3) of the Financial Consumer Protection Act and Article 18(1) and (2) of the Financial Consumer Protection Act.
+
+Article 4 (Duties of Collective Investment Firms and Trustees) 
+(1)The collective investment company shall establish and terminate the investment trust and direct the operation and operation of the investment trust property.
+(2) The trustee is the person who keeps and manages the investment trust property, and performs the tasks of acquiring and disposing of the assets in accordance with the collective investment company's investment trust property management instructions, paying the termination price and profits, monitoring the collective investment trust property's management instructions, checking whether the investment trust property statement matches the name and quantity of the investment assets stored and managed, and checking the fairness of the valuation of the investment trust property and the appropriateness of the standard price calculation .
+(3) Matters not stipulated in this trust agreement, such as methods and procedures for directing the operation of investment trust property, deduction of various taxes and utility bills, and other matters related to the handling of trustee business, may be separately determined between the collective investment business and the trustee within the scope prescribed by the relevant laws and financial investment business regulations. provided, however, that in the event of a conflict between this trust agreement and the foregoing agreement, this trust agreement shall prevail.
+
+Article 4(2) (Exclusive broker) A collective investment business shall appoint a trustee as a person who performs exclusive brokerage business (hereinafter referred to as a "dedicated broker") in order to carry out the following tasks.
+1. Lending of securities or brokerage thereof · Arrangement and agency services
+2. Financing of money
+3. Storage and Management of Investment Trust Assets
+4. Execution of purchase and purchase orders of investment trust properties
+5. Acquisition, disposal, etc. of transactions such as the sale of investment trust property
+6. Buying and selling derivatives or brokering, arranging, or acting on behalf of derivatives
+7. Buyback or brokerage thereof · Arrangement · Agency work
+8. Sales of Investment Trust Beneficiary Securities
+9. Advising on finance and finance related to the establishment or operation of investment trusts
+10. Investing in a general private equity fund to attract or facilitate investment from other investors (in the case of an investment trust, this includes the purchase of beneficial securities). Tasks to do 
+
+Article 4(3) (Outsourcing of business) (1) A trustee may entrust the custody and management of investment trust property to a third party.
+    ② The remuneration for the consignment of the work described in Paragraph 1 shall be the amount determined by the trustee and the company entrusted with the business, and shall be deducted from the remuneration of the trustee of the investment trust
+Article 5 (Effect of Trust Agreement and Duration of Trust Agreement) (1) This trust agreement shall take effect immediately upon the signing and seal of each party.
+(2) The beneficiary  shall be deemed to have accepted this trust agreement within the scope of the provisions of the law and this trust agreement  among  the matters set forth in this trust agreement and the core product prospectus at the time of purchasing the beneficial securities of this investment trust.
+(3) The term of the contract of this investment trust shall be from the date of the initial establishment of the investment trust  to the date of the XX month of 20XX. However, in each of the following cases, the period of the trust agreement shall be as determined by each of them.
+    1. In the event of termination of an investment trust, it shall be from the date of initial establishment of the investment trust to the date of termination of the investment trust.
+    2. In the event of a full recovery of the invested funds pursuant to Article 14, the contract period of the investment trust may be from the date of the initial establishment to the date of full recovery until the date determined by the collective investment business.
+    3. If the investment assets under Article 14 are not redeemed due to market conditions within three years from the date of the initial establishment of the investment trust, the term of the trust agreement may be extended through the procedure set forth in Article 34.
+
+Article 6 (Value of Original Trust and Total Number of Beneficial Securities)  The value of the original at the time of the initial establishment of this investment trust shall be based on 1 won per 1 share, and the reference price set forth in Article 23 (hereinafter referred to as the "reference price") shall be applied, and the total number of beneficial securities that can be established  shall be 1 trillion shares.
+
+Article 7 (Additional Trusts) (1) This investment trust shall not be subject to additional establishment. However, the collective investment business  may make additional settings within the range of the total number of beneficial securities pursuant to Article 6 from the date of the initial establishment to the purchase application before 15:30 on the 5th business day, and the  size and timing of the additional setting shall be determined by the collective investment business, but the relevant procedures shall be in accordance with the relevant laws and regulations.
+(2) Notwithstanding the provisions of Paragraph 1, an additional setting may be made only in the case of any of the following within the scope of the total number of beneficial securities pursuant to Article 6, and the size and timing of the additional setting shall be determined by the collective investment company.
+1.  When the trustee confirms that there is no risk of harming the interests of the existing beneficiary.
+2. When all existing beneficiaries have agreed
+3. In the event that additional beneficial securities of this investment trust are issued within the scope of the profit distribution received from this investment trust.
+
+Article 8 (Payment of Trust Money) (1) When the collective investment trust is first established, the collective investment company shall pay the investment trust amount equal to the original amount of the trust under Article 6 to the trustee in money.
+(2) When a collective investment company establishes an additional investment trust pursuant to Article 7, it shall pay the additional investment trust money to the trustee. In this case, the additional investment trust shall be the amount multiplied by the base price on the date of additional establishment and the number of beneficial securities to be set additionally divided by 1,000.
+(3) The amount divided by 1,000 by the number of beneficial securities to be set up in accordance with Paragraph 2 multiplied by the base price at the time of initial establishment shall be treated as the original amount, and the amount equivalent to profit or loss shall be treated as the profit adjustment.
+(4) Notwithstanding the provisions of paragraphs (1) and (2), if objective valuation is possible and there is no risk of harming the interests of other beneficiaries, the payment may be made as an asset other than money in accordance with subsection (4) of section 249(8) of the Act. 
+
+
+Chapter 2 Beneficiary Securities, etc.
+
+Article 9 (Division of Beneficiary Rights) (1) The beneficial rights of this investment trust shall be divided equally into units of one share and shall be denominated as beneficial securities.
+(2) The beneficiaries of this investment trust shall have equal rights in respect of the redemption of the original investment trust and the distribution of the investment trust profits, etc., according to the number of beneficial rights, and there is no difference in the content of the rights even if the date of establishment is different.
+
+Article 10 (Issuance and Electronic Registration of Beneficiary Securities) (1) When the entire issuance price of the beneficial securities has been paid by the initial and additional establishment of the investment trust in accordance with the provisions of Articles 6 and 7, the collective investment business shall, upon confirmation from the trustee, issue nominal beneficial securities corresponding to any of the following: In this case, the collective investment business shall electronically register the beneficial securities through an electronic registration authority in accordance with the Act on Electronic Registration of Stocks and Debentures (hereinafter referred to as the "Electronic Securities Act").
+    1. Class A Beneficiary Securities
+    2. Class C Beneficiary Securities
+    3. Class C-I Beneficiary Securities
+(2) The selling company shall prepare and furnish a customer account book (hereinafter referred to as the "Beneficiary Securities Customer Account Book") pursuant to Article 2, Paragraph 3 of the Electronic Securities Act by stating the following matters: 
+    1. Customer's full name and address
+    2. Types and Number of Beneficiary Securities
+(3) A person who is electronically registered in the Beneficiary Securities Customer Account Book shall be presumed to have a lawful right in respect of the Beneficiary Securities. 
+
+Article 11 (Transfer of Beneficiary Securities) (1) In the event that the beneficiary rights are to be transferred, it shall be by electronic registration of inter-account substitution in accordance with Article 30 of the Electronic Securities Act, and the person who is electronically registered in the Beneficiary Securities Customer Account Book shall be presumed to have a lawful right in respect of the Beneficiary Securities. However, the beneficiary shall not transfer the beneficial rights to a person who is not a qualified investor, and as a result of the transfer, it may be divided and transferred to the extent that it meets the requirements of a private equity investment vehicle.
+(2) In the case where the beneficiary securities are for the purpose of pledge, the electronic registration of the pledge establishment pursuant to Article 31 of the Electronic Securities Act shall be required for the pledge to take effect.
+(3) The transfer of beneficial rights shall not be made against the collective investment business unless the person who acquired it in accordance with the procedure prescribed by the collective investment company enters his or her name and address in the list of beneficiaries.
+(4) In the case of the transfer of beneficial securities, the transferee shall comply with the provisions of Article 5, Paragraph 2.
+
+Article 12 (List of Beneficiaries) (1) A collective investment business shall entrust the preparation of the list of beneficiaries to the Korea Securities Depository.
+(2)A collective investment business shall conclude a consignment contract with the Korea Securities Depository for the preparation of a list of beneficiaries, etc., and the Korea Securities Depository shall handle the business in accordance with the relevant laws, trust agreements, consignment agreements, and related regulations.
+(3) In order to determine the person who will exercise voting rights, receive profits, etc., or exercise the right as a beneficiary or pledgee, the collective investment business may suspend the change of entries in the list of beneficiaries for a certain period of time, or the beneficiary or pledgee listed in the beneficiary register on a certain day may be considered as the beneficiary or pledgee to exercise the right.
+(4)If a collective investment business sets a period or a certain date as set forth in Paragraph 3, it shall notify the same to the Korea Securities Depository without delay.
+(5) The Depository may, upon receipt of notice pursuant to subsection (4), request the selling company to notify the seller of any of the following matters concerning the beneficiary:
+    1. Beneficiary's name, address, and e-mail address
+    2. Types and number of beneficiaries held by beneficiaries
+(6) The depository that receives a notice from the selling company pursuant to subsection (5) shall prepare a list of beneficiaries stating the matters received and the date and date of the notification, and if the collective investment business requests notification of the matters listed in the list of beneficiaries, it shall notify the name of the beneficiary and the number of beneficiary rights.
+(7) In the event that a collective investment company has set a date as specified in Paragraph 3, the preamble to Article 354, Paragraph 4 of the Commercial Code shall be applied. However, this shall not be the case if the base date is set according to any of the following:
+    1. When setting a base date for the separation of normal assets and deferred repurchase assets based on a partial repurchase decision
+    2. When setting the base date for the merger of the investment trust following the merger
+    3. When setting a base date for the payment of repayment due to the termination of the investment trust
+    4. When setting a base date for the payment of profit distribution at the end of the investment trust's accounting period
+
+Chapter 3 Management of Investment Trust Properties
+
+Article 13 (Asset Management Instructions, etc.) (1) In managing the investment trust property, the collective investment business shall give necessary instructions to the trustee regarding the acquisition and disposal of the investable assets for each investment trust property, and the trustee shall carry out the acquisition and sale of the investable assets in accordance with the instructions of the collective investment business. However, in the case of an unavoidable case for the efficient operation of investment trust property, a collective investment business may acquire or dispose of the investable asset directly in its own name in the case of managing the investable asset in accordance with Article 79(2) of the Enforcement Decree of the Act.
+(2) In the event that a collective investment company or a trustee acquires or disposes of an investable asset pursuant to Paragraph 1, it shall be responsible for its performance with the investment trust property. However, this shall not be the case if the collective investment company is liable for damages in accordance with Article 64(1) of the Act.
+(3) In the event that a collective investment business gives instructions in accordance with the provisions of Paragraph 1, it shall do so in a way that can objectively and accurately manage the contents of the instructions by means of a computer system.
+(4) In the event that a collective investment business gives instructions pursuant to the proviso to Paragraph 1, it shall fairly distribute the results of acquisition, disposal, etc., in accordance with the predetermined asset allocation tax for each investment trust property, and prepare, maintain, and manage books and documents relating to the asset allocation tax, the results of acquisition, disposal, etc., and the results of the allocation.
+
+Article 14 (Investment Objectives and Strategies) (1) This investment trust is a venture business investment trust pursuant to Article 16 of the Tax Privilege Limitation Act and Article 14 of the Enforcement Decree of the same Act, and seeks returns by investing in new shares and shares related to venture companies.
+(2)This investment trust shall actively participate in the public offering stock market in accordance with the preferential allocation of the number of public offering shares of the venture venture investment trust in accordance with the "Regulations on Securities Underwriting Business, etc." We directly invest in public offering stocks with excellent growth potential and intrinsic value in consideration of thorough corporate value analysis and market conditions, selectively invest in public offering stocks based on thorough valuation analysis, and implement differentiated trading strategies among stocks.  
+(3) Notwithstanding the provisions of paragraphs (1) and (2), this investment trust may invest in bonds, stocks, contributions to limited partners, asset-backed securities, bills of exchange, collective investment securities, repurchase conditional sale, lending of securities, borrowing of securities, and listed REITs.
+(4)A collective investment company may operate the investment standby fund in the following ways if necessary for efficient management. 
+    1. Short-term loans (refers to the provision of funds by short-term money transactions between financial institutions within 30 days)
+    2. Deposit to financial institution (limited to products with a maturity of less than one year)
+    3. Conditional buyback (refers to the purchase of securities on the condition that they will be repurchased after a certain period of time)
+
+Article 15 (Limit on Acquisition of Investment Objects) (1) Within six months from the date of establishment of the investment trust, the sum of the ratios under the following items shall be at least 50%, and in this case, the investment under item 1 shall not be less than 15% of the total amount of assets in the total amount of the investment trust.
+A. The proportion of the total valuation of the property that invests in the venture company as follows.
+1) Acquisition of stocks, unsecured convertible bonds, unsecured rights subordinate bonds, or invested shares issued by a venture company pursuant  to Article 2, Paragraph 2 of the Act on Special Measures for the Promotion of Venture Companies.
+2) Investment by acquiring shares or invested shares owned by others by purchase
+B. Proportion of the total valuation of the property invested in 1) and 2) to a small and medium-sized company listed on the KOSDAQ Market pursuant to the Capital Market and Financial Investment Business Act or a medium-sized company pursuant to Article 10, Paragraph 1 of the Enforcement Decree of the Tax Privilege Limitation Act, which has been a venture company for less than 7 years since it ceased to be a venture company.
+(2) Notwithstanding Paragraph (1), it shall not apply to the six months preceding the date of termination of the investment trust, and every six months from the date on which the requirements of Paragraph 1 of this Article are met, the proportion of the daily investable assets of each item in the same paragraph shall be added together for a period of six months and divided by the total number of days during the same period shall be at least 50% (the ratio of the sum of the provisional and the namok) and 15% {the ratio of the provisional items 1}. 
+(3) This investment trust is a mixed-asset collective investment vehicle with no restrictions on the object of investment and the proportion of investment, and may operate the investment trust property without being restricted by the limit on the acquisition of the investable assets, except in the case of Paragraphs 1 and 2 of this Article and in cases where there is a limit by law. 
+
+Article 16 (Management and Investment Restrictions) A collective investment business may not instruct a trustee to engage in any of the following acts in the management of investment trust assets: However, this shall not be the case if it is exceptionally recognized by the relevant laws and regulations. 
+    1. An act of managing an interest person and investment trust property of a collective investment business as defined in Article 84  of the Enforcement Decree of the Act in any of the following ways, exceeding  10% of the total assets of the investment trust. However,  it is not possible to operate with a major shareholder of a collective investment company or an interested person who is an affiliated company in the following ways. 
+    가. Short-term loans under  Article 83(4) of the Act
+    나. Conditional buyback (  when a security is purchased on the condition that it will be resold after a certain period of time)
+    2.  Investing in the  sum of the following amounts exceeding 200% of the total net assets of this investment trust: 
+A. If the investment trust property is operated in a way that provides a debt guarantee or security for a person other than the investment trust,  the amount of the debt guarantee or the value of the collateral object
+B. If you borrow money based on the calculation of an investment trust, the total amount of the borrowed money
+C. Conditional sale of repurchase (if the securities are sold on the condition that they will be repurchased after a certain period of time, the sale amount) 
+D. If you borrow and sell securities, the amount of the sale 
+    3. An act in which the sum of the proportion of investment trust assets managed in financial investment products of Article 2 No. 7 of the Act and the risk assessment resulting from the sale of derivatives exceeds 20% of the total assets of the collective investment vehicle.
+    4. Exceeding the limit set forth in Article 86 of the Enforcement Decree to acquire securities issued by affiliates of a collective investment company.
+    5. In the case of unlisted securities, the act of investing in non-deposited assets. However, it does not apply if the investment contract specifies that it will be changed to a depository asset through the issuance of unified stock certificates within 3 months at the time of investment.
+    6. An act of investing in the sum of the sum of the amount of each item No  . 2 (in the case of No. 2 provisional and secondary items, the investment trust property shall be deemed to be the investment purpose company property and the investment trust shall be deemed to be the investment purpose company)  in  excess of 200% of the total net assets of the investment purpose company.
+    7. An  act of investing  the sum of the amounts in each item 2 and item 6  exceeding  200% of the total net assets of the investment trust.
+    8. Other acts that violate the law and related laws such as enforcement ordinances
+
+
+Chapter 4 Storage and Management of Investment Trust Property
+
+Article 17 (Duty of Good Care of the Fiduciary) The trustee shall safeguard and manage the investment trust property  as a duty of care of a good manager and protect the interests of the beneficiaries.
+
+Article 18 (Restriction on the work of trustees, etc.) (1) A trustee shall not be an affiliated company of any of the following:
+    1. Collective Investment Vehicles
+    2. A collective investor who manages the trust property
+(2) The trustee shall manage the investment trust property separately from its own property, other collective investment property, or property entrusted to him by a third party. In this case, the fact that it is a collective investment property and the consignee must be specified. 
+(3) The trustee  shall separate securities and other items specified in Article 268(1) of the Enforcement Decree of the Act from his own property and deposit them with the Korea Securities Depository for each collective investment organization. However, this shall not be the case in the case of consideration of the possibility of circulation of the securities in question, whether there is a distribution method in accordance with other laws and regulations, and the feasibility of the deposit, as stipulated  in Article 268(2) of the Enforcement Decree of the Act.
+(4) In the event that the trustee gives instructions to  the trustee pursuant  to Article 13  in order to carry out the acquisition, disposal or custody of assets, the trustee shall carry out the instructions necessary for each collective investment organization.
+(5) A trustee who manages the collective investment property shall not trade the collective investment property in its custody with his or her own property, other collective investment property, or property entrusted to custody by a third party. However, this shall not be the case in cases where it is necessary for the efficient operation of investment trust assets and  is stipulated in Article 268(4) of the Enforcement Decree of the Act.
+(6) A trustee who manages the collective investment property shall not trade the collective investment property in his custody with the proprietary property of the interested person.
+(7) A trustee who manages the collective investment property shall not use the information on the collective investment property of the collective investment organization for the operation of its own property, the management of the collective investment property it manages, or the sale of the collective investment property it sells.
+
+Article 18(2) (Obligation to monitor management activities, etc.) (1) The trustee shall check whether the management instruction or management act of the collective investment business managing the trust property violates the law, the trust contract or the core product description, etc., and if there is a violation, the collective investment business shall request the collective investment business to withdraw, change, or correct the operation instruction or management act.
+(2) If the trustee fails to fulfill the requirements under paragraph (1) within three business days, the trustee shall report the fact to the Financial Services Commission and shall disclose the matters prescribed in paragraph (2) of Article 269.
+(3) A collective investment business may file an objection to the requirements under Paragraph 1 with the Financial Services Commission. In this case, the parties concerned shall abide by the decision of the Financial Services Commission.
+(4) The trustee shall check the following matters in relation to the collective investment property.
+    1. Whether the core product prospectus is in accordance with the statute and the trust agreement.
+    2. Whether it is appropriate to prepare an asset management report in accordance with Article 88(1) and (2) of the Act?
+    3. Whether it is appropriate to prepare a risk management method in accordance with Article 93(2) of the Act?
+    4. Whether the valuation of collective investment property under Article 238(1) of the Act is fair
+    5. Whether the calculation of the reference price under Article 238(6) of the Act is appropriate?
+    6. Specification of Collective Investment Companies' Implementation of Requests for Correction in Paragraph 1
+    7. Other matters necessary for the protection of investors, as stipulated in Article 269(4) of the Constitution
+(5) The trustee may request the submission of relevant data to the collective investment company if it is necessary to make a request pursuant to Paragraph 1 or to make a report pursuant to Paragraph 2, or if it is necessary to confirm the matters set forth in Paragraph 4. In this case, the collective investment company must comply unless there is a justifiable reason.
+
+
+Chapter 5 Sale and Repurchase of Beneficiary Securities
+Article 19 (Sale of Beneficiary Securities) (1) The collective investment business of this investment trust shall enter into a sales contract or consignment sales agreement with the selling company in order to sell the beneficial securities. 
+(2) The client may acquire the beneficial securities of this investment trust through the selling company. 
+(3)The customer shall pay the funds to the selling company by 15:30 on the date of the purchase request for the acquisition of these beneficial securities. However, in the case of the initial setting date, the funds must be paid to the selling company on the first set date, and the calculation of the business day for the purchase request date shall be the business day of the selling company, notwithstanding the provisions of Article 2, Paragraph 3. 
+
+Article 19(2) (Restriction on sale of beneficial securities, etc.) (1) The beneficiaries of this investment trust shall not exceed 100. However, it shall not be applied in the following cases. 
+    1. A beneficiary who falls under any of the items in Article 10, Paragraph 1 of the Enforcement Decree of the Act
+    2. Beneficiaries are those who fall under Article 10, Paragraph 3, Paragraph 12, and 13 of the Enforcement Decree of the Act, and who are determined and notified by the Financial Services Commission
+(2) In calculating the number of beneficiaries under the provisions of Paragraph 1, if another collective investment vehicle acquires more than 10% of the total number of beneficial securities issued by this investment trust, the number of beneficiaries (hereinafter referred to as beneficiaries pursuant to Paragraph 1) of the other collective investment vehicle shall be calculated by adding them together.
+(3) The beneficial securities of this investment trust shall be sold only to qualified investors by means of private placement in accordance with the provisions of subsection (8) of section 9 of the Act
+(4) Notwithstanding the provisions of paragraph (1), the number of investors who are general investors shall not exceed 49. 
+(5) Notwithstanding paragraph (2), if the collective investment operator of the collective investment vehicle manages two or more other collective investment vehicles together, and the two or more collective investment vehicles acquire more than 30% of the total number of issued collective investment securities of the collective investment vehicle, the number of investors in the other collective investment vehicle who have acquired less than 10% of the total number of securities issued shall also be added together. 
+
+Article 20 (Selling Price) The selling price of the Beneficiary Securities shall be the base price of each of the following items based on the business date on which the investor pays the funds to the selling company for the acquisition of the Beneficiary Securities (hereinafter referred to as the "Purchase Request"). (If the relevant day is not a business day, it shall be the next business day.) However, when this investment trust is established for the first time, the reference price announced on the date of the initial establishment of the investment trust shall be
+1. If you request a purchase before 15:30: Based price on the 2nd business day (T+1 day) from the business day of payment of funds 
+2. Purchase request after 15:30: Based price on the 3rd business day (T+2 days) from the business day of payment of funds 
+3. Notwithstanding paragraphs 1 and 2, when this investment trust is first established, it shall be at the reference price applicable on the date of initial establishment of the investment trust, and at the time of issuance of new types of beneficial securities or when it is reissued after the full repurchase of certain types of beneficial securities shall be subject to Article 23, paragraph 2.
+4. In the case of reinvestment of the profit share in accordance with Article 26(2), the base price in effect on the date of payment of the profit share in accordance with Article 26 shall be shall.
+
+Article 21 (Repurchase of Beneficiary Securities) The beneficiary shall not be entitled to claim the repurchase of this investment trust.
+
+
+Chapter 6 Valuation and Accounting of Investment Trust Property
+
+Article 22 (Valuation of Investment Trust Property) (1) A collective investment business shall evaluate the investment trust property  according to the market value in  accordance with Article 238(1) of the Act, but if there is no reliable market value as of the date of valuation, it shall be assessed at fair value. 
+(2) A collective investment company shall form and operate a collective investment property valuation committee as stipulated in Article 238(2) of the Act in order to carry out the evaluation of investment trust property pursuant to paragraph (1).
+(3) In order to ensure that the valuation of investment trust property is made fairly and accurately, the collective investment business shall prepare the standards for the evaluation and procedure of collective investment property as stipulated in Article 238(3) of the Act (hereinafter referred to as the "collective investment property valuation standards" in this Article) with the confirmation of the trustee.
+(4) If the valuation of the investment trust property by the appraisal committee pursuant to paragraph (2) has been made, the collective investment company shall notify the trustee of the details of the valuation without delay. 
+
+Article 23 (Calculation and provision of reference price) (1) The collective investment company shall calculate the reference price according to the results of the valuation of the investment trust property pursuant to Article 22. The reference price shall be calculated by dividing the total amount of assets of the investment trust on the statement of financial position on the day before the calculation date minus the total amount of liabilities (hereinafter  referred to as the "total net assets of the relevant type of beneficial securities") by the total number of beneficial securities on the day before the calculation date, and the amount of 1,000 units shall be calculated from the third digit of the original to the second digit of the principal by 4 or 5 of  the original amount.
+(2)The collective investment business shall  calculate the base price in accordance with Paragraph 1 and notify the beneficiary or present it at the request of the beneficiary, but the base price on the day of the first establishment of the investment trust shall be 1,000  won for 1 seat.
+(3) A collective investment company may entrust the calculation of the reference price to a general office management company, and in this case, the fee shall be borne by the investment trust property.
+(4) The general office management company shall calculate the reference price of this investment trust and the reference price of the beneficial securities of the relevant type on a daily basis  in accordance with paragraph (1) and notify the collective investment company. 
+
+Article 24 (Accounting Period of Investment Trusts) The accounting period  of this investment trust  shall be every one year from the date of initial establishment.However, in the event of termination of the trust agreement,  it shall be from the beginning of the investment trust accounting period to the date of termination of the trust agreement  . 
+
+Article 25 (Audit of Accounts of Collective Investment Organizations) (1) The collective investment business shall prepare the following documents and annexes for each financial period of the investment trust. 
+    1. Statement of Financial Position 
+    2. Income Statement 
+    3. Asset Management Report 
+(2) A collective investment business shall have its investment trust property audited by an auditor within two months from the following dates: However, in the case of any of the items in Article 264, the consent of all the beneficiaries has been obtained, and there is no risk of harming the interests of investors, and it shall not be applied in the case prescribed by the Enforcement Decree of the Capital Market Act. 
+    1. The last day of the fiscal period 
+    2. The end of the term of the investment trust or the date of termination of the investment trust 
+
+Article 26 (Distribution of profits) (1) The collective investment company  shall distribute the profits  generated from the operation of the investment trust property on the business day following the end of the investment trust accounting period. 
+(2) The collective investment company shall distribute the profits under the provisions of Paragraph 1 to the beneficiaries through the selling company in the form of money or newly issued beneficial securities.
+(3) Notwithstanding subsection (1), a collective investment company may withhold the distribution of profits falling under any of the following subparagraphs, and may also withhold the distribution if the profit under section 242 of the Act is less than zero:
+1. Appraisal profit of collective investment property assessed in accordance with Article 238 of the Act
+2. Profit from the sale of collective investment property in accordance with the accounting treatment standards of Article 240(1) of the Act
+
+Article 26(2) (Reinvestment by Profit Distribution) (1) A beneficiary may purchase the beneficial securities at the base price on the date of payment of the distribution within the extent of the amount deducted from the profit distribution.
+(2) In the case of the purchase of beneficial securities with the profit distribution, the collective investment business shall issue the beneficial securities in the manner described in Article 10(1) when the payment of the purchase amount of the beneficial securities is completed.
+
+Article 27 (Payment of Redemptions, etc.) (1) When the term of the trust agreement expires or the investment trust is terminated, the collective investment business shall without delay pay the redemption and profits of the original investment trust (hereinafter referred to as the "redemption money, etc.") to the beneficiary through the sales company that sold the beneficial securities.
+(2) Collective investment companies shall be excluded in paragraphs 1 and 2 of Article 36 (except for paragraph 2).In the event of termination of an investment trust pursuant to the provisions of this clause, the assets belonging to the investment trust property may be paid to the beneficiary with the consent of all the beneficiaries.
+(3) In the event that it is difficult to pay the repayment due to the reasons stipulated in Article 256 of the Enforcement Decree of the Act, such as when it is impossible to dispose of the assets that are the property of the investment trust, the collective investment business may postpone the repayment of the investment trust, and in this case, the beneficiary shall be notified of the fact through the Korea Securities Depository or the sales company.
+
+Article 28 (Statute of Limitations for Profit Distribution and Redemption, etc.) (1) The date on which the beneficiary commences the payment of the profit distribution or redemption (the date on which the selling company pays the profit share or redemption to the beneficiary in accordance with the provisions of Articles 26 and 27).) and if no payment is requested for 5 years, the vendor may acquire it.
+(2) After the trustee delivers the profit share or redemption to the selling company, the selling company shall be responsible for the payment to the beneficiary.
+
+
+Chapter 7 General Meeting of Beneficiaries
+
+Article 29 (Beneficiary's General Meeting and Opposition Benetee's Right to Claim) (1) This investment trust, as a general private equity collective investment vehicle, shall not apply to the general meeting of beneficiaries and related matters in accordance with the provisions of paragraph 5 of section 8 of section 249 of the Act. However, if the collective investment business is unable to repurchase the collective investment securities on the repurchase date stipulated in Article 256 of the Act, such as when it is impossible to dispose of the assets that are collective investment property, Article 237 of the Act shall apply, and in this case, the date of resolution of the general meeting of beneficiaries shall be within three months from the date of postponement of the repurchase. 
+(2) The collective investment business shall immediately notify the selling company in the event of any of the following: 
+    1. When it becomes impossible to repurchase collective investment securities on the repurchase date stipulated in the collective investment agreement
+    2. If the auditor's audit opinion on the collective investment vehicle is not an appropriate opinion
+(3) If the reason in Paragraph 2 has been resolved, the collective investment company shall immediately notify the relevant sales company 
+
+Chapter 8 Remuneration and Fees
+
+Article 30 (Remuneration) (1) The remuneration for the operation and management of the investment trust property (hereinafter referred to as the "investment trust remuneration") shall be borne by the investment trust, and the types of remuneration shall be as follows:
+    1. Collective investor remuneration acquired by collective investment business
+    2. Remuneration of the sales company acquired by the vendor
+    3. Fiduciary remuneration obtained by the fiduciary
+    4. General office management company remuneration to be acquired by the general office management company
+(2) The period for calculating the remuneration of the investment trust (hereinafter referred to as the "remuneration calculation period")  shall be every three months from the date of initial establishment, and during the period of calculation of the remuneration, the investment trust remuneration  shall be recorded in the financial statement every day, and  when  any  of the following cases occur, the trustee shall withdraw from the investment trust property in accordance with the instructions of the collective investment company. 
+    1. End of Remuneration Calculation Period
+    2. Termination of Investment Trust 
+(3) The remuneration of the investment trust pursuant to the provisions of paragraph (1) shall  be the amount of the  following remuneration  rates for each type of beneficial securities multiplied by the annual average value of the investment trust property (the sum of the total net assets of the investment trust on a daily   basis divided by the number of days per year) multiplied  by the number of days during the remuneration calculation period.
+
+1. Class A Beneficiary Securities 
+A. Collective investor remuneration rate :  9.15/1000 per annum
+B. Remuneration rate of the sales company :  5/1000 per annum
+Everything. Fiduciary remuneration rate:  2/1000 per annum
+d. General office management company remuneration rate:  0.15/1000 per annum
+
+2. 종류 C 수익증권 
+A. Collective investor remuneration rate :  9.15/1000 per annum
+B. Remuneration rate of sales company :  9/1000 per annum
+Everything. Fiduciary remuneration rate:  2/1000 per annum
+d. General office management company remuneration rate:  0.15/1000 per annum
+
+3. 종류 C-I 수익증권 
+A. Collective investor remuneration rate :  9.15/1000 per annum
+B. Remuneration rate of the sales company :  5/1000 per annum
+Everything. Fiduciary remuneration rate:  2/1000 per annum
+d. General office management company remuneration rate:  0.15/1000 per annum
+
+Article 30(2) (Performance Remuneration) (1) In addition to the collective investment business remuneration, a collective investment company may obtain performance remuneration in connection with the management performance of the investment trust or the return of the investor.
+(2) The remuneration for performance shall be calculated in accordance with the method prescribed in each of the following items for the performance of the beneficial securities.
+1. Period for calculating performance remuneration : From the date of initial establishment of the investment trust to the day before the termination date.
+2. Amount of Performance Remuneration and Method of Calculation
+A. Amount of remuneration for performance: Max [Amount of excess earnings (1) x Remuneration rate for performance (2), 0] 
+B. Calculation method
+
+(3) The performance remuneration shall be withdrawn from the assets of the investment trust by the trustee in accordance with the instructions of the collective investment company on the date of termination of the total.
+(4) This investment trust may be exposed to higher investment risk than an investment trust that does not pay performance remuneration, and furthermore, by calculating and withdrawing the performance remuneration at the time of withdrawal of performance remuneration, the investor may realize performance that is lower than the expected operating performance at the reference price.
+(5) The experience and operational performance of investment management personnel are as follows.
+
+1) < the experience of investment management personnel 
+(2022.XX.XX)
+※ The above investment trust may be operated by other management personnel within the headquarters depending on the situation, such as the absence of a responsible manager.
+2) Operational performance of investment management personnel : Not applicable
+
+Article 31 (Sales Commission) (1) The selling company may obtain a pre-emptive sales commission from the beneficiary at the time of purchasing the beneficial securities in exchange for the act of selling the beneficial securities.
+(2) The pre-sale fee shall be the amount paid (the base price applied at the time of purchase of beneficial securities multiplied by the number of beneficial securities to be purchased, divided by 1,000) multiplied by the pre-sale commission rate for each of the following types of beneficial securities .
+1. Class A beneficial securities: 1.5/100 or less
+Article 32 (Repurchase Fee) Since the beneficial securities of this investment trust are not repurchased, the repurchase fee shall not apply.
+
+Article 33 (Other Operating Expenses, etc.) (1) The expenses incurred for the operation of the investment trust property shall be borne by the beneficiary, and the trustee shall withdraw from the investment trust property and pay it in accordance with the instructions of the collective investment business. 
+(2) In paragraph (1), "expenses" means the following expenses in relation to the investment trust property:
+    1.  Transaction fee for securities and other assets
+    2.  Deposit and settlement costs of assets such as securities
+    3. Audit Expenses of Investment Trust Property
+    4. Costs associated with a dedicated broker 
+    5. Legal & Accounting Advisory Fees
+    6. Beneficiary List Management Expenses
+    7. Litigation Costs for Investment Trust Property
+    8.  Price information cost of assets such as securities
+    9. Intellectual property costs required for the operation of investment trust property
+    10. Other equivalent expenses incurred for the operation of investment trust assets, etc.
+
+Article 33(2) (Expenses related to exclusive brokers)  "Expenses related to exclusive brokers" as defined in Article 33, paragraph 2, paragraph 4  refers to expenses related to the work and performance of  each of Article 4(2).
+
+
+Chapter 9 Modification and Termination of Trust Agreement, etc.
+
+Article 34 (Modification of Trust Agreement) (1) If a collective investment company wishes to change the trust agreement, it shall enter into a change agreement with the trustee. In this case, if any of the following items are changed in the trust agreement, the prior consent of all the beneficiaries is required, and the change must be notified to all beneficiaries through the sales company.
+    1. Changes to the main investable assets, investment strategies, and management restrictions (including monetary borrowings, etc.)
+    2. Remuneration that collective investment companies, trustees receive, and other fees increase
+    3. Change of trustee (except in the case of change due to the reason of Article 35, Paragraph 3) 
+    4. Change of the term of the trust agreement (except where the change in term is specified in the trust agreement at the time of the establishment of the investment trust)
+    5. Other important matters related to the interests of the beneficiaries are stipulated in Article 217 of the Enforcement Decree of the Act.
+(2) In the event that a collective investment company changes the trust agreement pursuant to Paragraph 1, it shall notify the beneficiary of the change through the selling company.
+(3) In the event that any of the matters stipulated in this trust agreement are obliged to apply due to changes in the relevant laws and regulations, the changes shall be followed. 
+
+Article 35 (Change of Collective Investment Provider and Trustee) (1) In the case of a change of the collective investor or trustee of this investment trust, the prior consent of all the beneficiaries shall be obtained.
+(2) In the event of a change of collective investment company, the provisions of Paragraph 1 shall not apply in any of the following cases.
+    1. Merger and Separation
+    2. In the event of a change in the collective investment business in accordance with the measures taken by the Financial Services Commission pursuant to Article 420, Paragraph 3, Paragraphs 1 and 2 of the Act
+    3. In the event that the collective investment business is changed in accordance with the order of the Financial Services Commission pursuant to the provisions of Article 10, Paragraph 1, Paragraphs 6 to 8 of the Act on the Structural Improvement of the Financial Industry
+(3) In the event of a change of trustee, the provisions of Paragraph 1 shall not apply in any of the following cases.
+    1. Merger and Separation
+    2. When the whole of the trust contract is transferred due to a business transfer, etc.
+    3. When a part of the trust agreement is inevitably transferred in order to comply with relevant laws such as Article 184(4) of the Act and Article 246(1) of the Act.
+    4. In the event of a change of trustee pursuant to the measures of the Financial Services Commission pursuant to Article 420, paragraph 3, paragraphs 1 and 2 of the Act
+    5. In the event that the trustee is changed in accordance with the order of the Financial Services Commission pursuant to the provisions of Article 10, Paragraph 1, Paragraphs 6 to 8 of the Act on the Structural Improvement of the Financial Industry
+(4) In the event that the collective investment company or trustee is changed pursuant to paragraph (1) for any reason other than the following, the beneficiary of the investment trust shall pay the remuneration of the investment trust in accordance with paragraph (5) apart from Article 30.
+    1. In the event that the collective investment business or the trustee intentionally or grossly negligently violates the prospectus of the trust contract
+    2. In the event that a collective investment company or trustee intentionally or grossly negligently neglects its duties and causes damage to the beneficiary.
+(5) The remuneration of the investment trust pursuant to subsection (4) shall be in accordance with the following subparagraphs and shall be withdrawn from the investment trust property by the trustee in accordance with the instructions of the collective investment business
+    1. Eligible amount: The amount of the remuneration rate of the investment trust pursuant to Article 30 multiplied by the total net assets of the investment trust as of the effective date of the change multiplied by the number of days for the period covered by paragraph 2, and the expenses paid by the collective investor in connection with the establishment of the investment trust (legal advisory fees, etc.)
+    2. Applicable period: One year from the effective date of the change. However, if the term of the trust agreement is fixed, it shall be from the effective date of the change to the end of the trust contract period.
+(6) A collective investment company or a trustee may claim compensation for damages against the beneficiary in the event of a loss apart from the application of Paragraph 5.
+
+Article 36 (Termination of Investment Trust) (1) A collective investment business may terminate an investment trust with the approval of the Financial Services Commission. If all the beneficiaries agree, the investment trust may be terminated without the approval of the Financial Services Commission, and in this case, the collective investment business shall report the termination to the Financial Services Commission without delay.
+(2) A collective investment business shall terminate the investment trust without delay in any of the following cases: In this case, the collective investment business shall report the termination to the Financial Services Commission without delay.
+    1. Termination of the Trust Agreement Period as Stipulated in the Trust Agreement
+    2. Merger of Investment Trusts
+    3. The total number of beneficiaries becomes one. However, cases where there is no risk of harming sound transaction order are excluded as stipulated in Article 224(2) of the Enforcement Decree of the Act.
+    4. If you are ordered to terminate an investment trust pursuant to Article 249(9)(1) of the Act.
+
+Article 37 (Disposal of Receivables and Payables) (1) In the event that a collective investment business terminates an investment trust pursuant to Article 36, paragraph 1 or paragraph 2, the collective investment business shall transfer the receivables on the date of termination of the investment trust at the fair value prescribed in paragraph 1 of Article 7-11 of the Financial Investment Business Regulations. However, if the receivables are traded in accordance with Article 87, Paragraph 1, Paragraph 3 of the Enforcement Decree of the Act, the transaction may be carried out.
+(2) In the event of terminating an investment trust pursuant to Article 36(1) or (2), if there is an outstanding debt, the collective investment company shall transfer the outstanding debt on the date of termination of the investment trust at the fair value set forth in paragraph (1). However, if the outstanding debt is confirmed and the transaction is made in accordance with Article 87, Paragraph 1, Paragraph 3 of the Enforcement Decree of the Act, the transaction may be carried out.
+  
+Chapter 10 Supplementary Rules
+
+Article 38 (Merger of investment trusts) (1) A collective investment company that has established an investment trust may merge the investment trust by means of absorbing other investment trusts managed by the collective investment trust.
+(2) If a collective investment company that has established this investment trust intends to merge the investment trust pursuant to paragraph (1), it shall prepare a merger plan stating the matters stipulated in paragraph (2) of section 193 of the Act and obtain the consent of all the beneficiaries of each investment trust to be merged.
+
+Article 39 (Restriction on Acquisition of Collective Investment Securities, etc.) (1) A collective investment business shall not acquire the beneficial securities of the investment trust by accounting for the investment trust or receive them for the purpose of pledging. However, if it is necessary to exercise the right, such as the execution of the security interest, the beneficial securities of the investment trust may be acquired by the calculation of the investment trust. 
+(2) The collective investment business shall dispose of the beneficial securities acquired pursuant to Paragraph 1 within one month from the date of acquisition in any of the following ways: 
+    1. Electronic registration of expungement under the Electronic Securities Act
+    2. Selling through a vendor
+
+Article 40 (Announcement and Report to Beneficiaries) (1) In the event that a collective investment company or a trustee is required to make a public announcement or public notice to the beneficiary in accordance with the relevant laws or the Commercial Code, it may be changed by notifying the beneficiary through the selling company.
+(2) A collective investment business shall prepare an asset management report as stipulated in Article 88 of the Act and deliver it to the beneficiary at least once every three months after receiving confirmation from the trustee. However, in the case of any of the following, it may not be issued. 
+    1. If the beneficiary expresses his/her refusal to receive the asset management report in writing, by telephone, electronic, fax, e-mail, or similar electronic communication;
+    2. If the valuation of the beneficial securities owned by the beneficiary is less than 100,000 won
+(3) In the case of issuance of an asset management report pursuant to the provisions of Paragraph 2, it shall be delivered by direct, e-mail or similar electronic communication within two months from the reference date through the vendor or electronic registration agency. However, if the beneficiary invests less than 1 million won in the investment trust or the beneficiary does not have an e-mail address, the investor may change the method to check the asset management report, such as allowing the investor to view the asset management report through the Internet homepage or mobile system that has given exclusive access to the investor of the collective investment vehicle, and if the beneficiary wishes to mail it, it must be followed.
+
+Article 41 (Liability for Damages) (1) Collective investment companies and trustees shall be liable to compensate for damages caused to the beneficiaries by violating the relevant laws and regulations or neglecting the core product description of the trust contract. 
+(2) The collective investment company and the trustee, together with the selling company, the general office management company, the collective investment vehicle evaluation company (the collective investment vehicle valuation company pursuant to Article 258 of the Act) and the bond rating company (the bond rating company pursuant to Article 263 of the Act),  shall be jointly liable for damages if there is a cause attributable to the beneficiary in accordance with the relevant laws and regulations.
+
+Article 42 (Bankbook Transactions of Beneficiary Securities) Beneficiaries may engage in bankbook transactions in accordance with the "Beneficiary Securities Savings Agreement" established by the Korea Financial Investment Association. 
+
+Article 43 (Compliance with relevant laws and regulations) Matters not stipulated in this trust agreement shall  be as prescribed by the relevant laws and regulations on financial investment business.
+
+Article 44 (Court of Jurisdiction) (1) When a lawsuit is filed by a collective investment company, trustee or sales company in relation to this trust agreement, it shall be filed with the court having jurisdiction over the head office of the person filing the suit.
+(2) When a beneficiary files a lawsuit, it may be filed with the court having jurisdiction over the beneficiary's domicile or the location of the business office of the collective investment company, trustee, or sales company with which the beneficiary does business, at the option of the beneficiary. However, if the beneficiary is a non-resident under the provisions of Article 3, Paragraph 1, Paragraph 15 of the Foreign Exchange Transaction Act, the complaint shall be filed with the court having jurisdiction over the location of the business office of the collective investment business, trust company, or sales company with which the beneficiary is transacting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Addendum
+Article 1 (Effective Date) This trust agreement shall  take effect on XX August XX, 20XX.
+
+
+.
+
+
+
