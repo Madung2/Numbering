@@ -50,6 +50,7 @@ final_text = seventh_numbering + seventh_txt
 
 
 ## [Result]
+```json
 output=
 {
     9: 
@@ -68,7 +69,7 @@ output=
         },
 }
 
-
+```
 
 [dependancies]
 libreoffice 엔진 필요
