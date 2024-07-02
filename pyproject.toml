@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "numbering"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Madung2 <tuliphan91@gmail.com>"]
 readme = "README.md"

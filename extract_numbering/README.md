@@ -12,32 +12,55 @@
 6. 가능하다면 library로 만들어서 install 해서 사용할 수 있게 만든다   
 
 
-## [결과]
+## [What it can do]
+Former word-processor processing libraries often fail to extract numbering info properly. Numbering can extract numbering infos and store it by each document
+You can use it with python-docx library
+
+## [How to use it]
+```python
+from numbering import DocNumberingExtractor
+
+num = DocNumberingExtractor('NH_전담중개업무계약서.docx')
+print(num.numbering_data)
+
+
+from docx import Document
+doc = Document('NH_전담중개업무계약서.docx')
+
+
+## if 7th paragraph has missing numbering You can combine numbering info like this!
+
+seventh_txt = doc.paragraph[7].text
+seventh_numbering = num.numbering_data['numbering']
+
+final_text = seventh_numbering + seventh_txt
+
+
+
+
+
+```
+
+
+## [Result]
 output=
 {
-    0:{
-        "numbering_txt" : '1.', //실제 번호매기기 txt
-        "num" : 1,  //번호매기기의 숫자 integer (is_numberic 이 False면 None이되야 함)
-        "is_num" : True,  //번호매기기가 이있는지 여부
-        "is_numeric":True,  //번호매기기 타입이 연속성이 있는지 여부
-        "type": "digit",  //digit, ganada, 
-    },
-    1:{
-        "numbering" : '2.',
-        "is_num" : True, 
-        "is_numeric":True, 
-        "type": "digit",
-    }
+    9: 
+        {
+            'num_type': 'decimalEnclosedFullstop', 
+            'num': 1, 
+            'numbering': '1.', 
+            'is_decimal': True
+        }, 
+    10: 
+        {
+            'num_type': 'decimalEnclosedFullstop', 
+            'num': 2, 
+            'numbering': '2.', 
+            'is_decimal': True
+        },
 }
 
-## 인풋값은 Document 오브젝트일수도 있고
-## 
-
-## [api1]
-json으로 넘버링 데이터를 리턴한다
-
-## [api2]
-텍스트를 바로 numbering 추가된 텍스트로 만들어준다.
 
 
 [dependancies]

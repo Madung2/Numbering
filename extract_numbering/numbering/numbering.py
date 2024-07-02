@@ -1,8 +1,8 @@
 import difflib
 import shutil
 from docx import Document
-from enums import NUMTYPES
-from convert import DocxToTxtConverter
+from .enums import NUMTYPES
+from .convert import DocxToTxtConverter
 
 class NumberedTextReader:
     """Compare textfile content and docfile content and return numbering
