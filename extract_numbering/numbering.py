@@ -1,6 +1,8 @@
 import difflib
+import shutil
 from docx import Document
 from enums import NUMTYPES
+from convert import DocxToTxtConverter
 
 class NumberedTextReader:
     """Compare textfile content and docfile content and return numbering
@@ -41,10 +43,18 @@ class NumberedTextReader:
 
 
 class DocNumberingExtractor:
-    def __init__(self, doc_lines, txt_lines):
-        self.doc_lines = doc_lines
-        self.txt_lines = txt_lines
+    def __init__(self, input_file):
+        self.numbering_data = {}
+        self.out_dir = 'output_txt'
+        con = DocxToTxtConverter(self.out_dir)
+        self.txt_path, self.doc_path = con.convert_to_txt(input_file)
+        num = NumberedTextReader()
+        self.doc_lines = num.read_doc_lines(self.doc_path)
+        self.txt_lines = num.read_txt_lines(self.txt_path)
         self.NUMTYPES = NUMTYPES
+        self.match_document()
+        self.compare_lines()
+        self._rm_dir()
 
     def find_combined_differences(self, text1, text2):
         differ = difflib.Differ()
@@ -91,7 +101,9 @@ class DocNumberingExtractor:
                         'is_decimal': True
                     }
             print('##############################')
-        return numbering_data
+        self.numbering_data = numbering_data
+        print(self.numbering_data)
+        return self.numbering_data
 
 
     def check_is_numbering_types(self, diffs, d_text, t_text):
@@ -145,3 +157,5 @@ class DocNumberingExtractor:
 
         self.doc_lines = list_a
         self.txt_lines = list_b
+    def _rm_dir(self):
+        shutil.rmtree(self.out_dir)

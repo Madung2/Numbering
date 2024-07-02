@@ -6,10 +6,11 @@ from docx import Document
 from datetime import datetime
 
 class DocxToTxtConverter:
-    def __init__(self, output_dir):
-        self.output_dir = output_dir
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
+    def __init__(self, input_file):
+        
+        self.output_dir = 'output_txt'
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir)
         self.lock = threading.Lock()
 
     def remove_tables_from_docx(self, doc):
