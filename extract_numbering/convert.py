@@ -54,11 +54,3 @@ class DocxToTxtConverter:
             lines = file.readlines()
         return lines
 
-# # 사용 예시
-# converter = DocxToTxtConverter('../output_txt')
-# txt_path = converter.convert_to_txt('utils/without_table.docx')
-# lines = converter.read_txt(txt_path)
-
-# # 읽은 내용 출력
-# for line in lines:
-#     print(line)
